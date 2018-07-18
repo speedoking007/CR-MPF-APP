@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "CR & MPF App",
+    "description": "Crime Reports and Missing Person Finder App",
+    "icon": "./images/logo1.png",
+    "version": "1.0.0",
+    "slug": "crmpf-app",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "sdkVersion": "27.0.0",
+    "privacy": "public",
+    "splash": {
+      "image": "./images/splash.png",
+      "resizeMode": "cover"
+    },
+    "ios": {
+      "bundleIdentifier": "com.ztech.crmfp"
+    },
+    "android": {
+      "package": "com.ztech.crmfp"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    }
+}
